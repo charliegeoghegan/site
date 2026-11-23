@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://charliegeoghegan.com/sitemap.xml
